@@ -63,4 +63,9 @@ And many more! Check out my repositories for additional projects like **Hotel Ma
 - 💼 [LinkedIn](https://www.linkedin.com/in/valentin-pletea-marinescu-437561259/)
 - 🖇️ [GitHub](https://github.com/Pletea-Marinescu-Valentin)
 
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=USERNAME&show_icons=true&hide_title=true)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=USERNAME&layout=compact&hide=html)
+
+
 
