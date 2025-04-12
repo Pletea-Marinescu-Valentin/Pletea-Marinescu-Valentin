@@ -37,13 +37,6 @@ I love tackling challenging projects that merge theory with real-world applicati
 
 ---
 
-## 🐙 Pull Requests & Issues Stats
-
-![Pull Requests](https://img.shields.io/github/issues-pr/Pletea-Marinescu-Valentin?style=flat-square)
-![Open Issues](https://img.shields.io/github/issues/Pletea-Marinescu-Valentin?style=flat-square)
-
----
-
 ## 🔧 Technologies & Tools
 
 - **Languages:** Python, C/C++, Java, PHP, Verilog, MATLAB
