@@ -16,11 +16,18 @@ I'm a passionate computer science student specializing in:
 
 I love tackling challenging projects that merge theory with real-world applications, from building machine learning models to designing robust web apps and embedded systems.
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Pletea-Marinescu-Valentin&show_icons=true&hide_title=true)
+---
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Pletea-Marinescu-Valentin&layout=compact&hide=html)
+## 📊 My GitHub Stats
 
-![Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=Pletea-Marinescu-Valentin&bg_color=ffffff&color=000000&line=000000&point=00FF00)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Pletea-Marinescu-Valentin&show_icons=true&hide_title=true&count_private=true&hide=prs)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Pletea-Marinescu-Valentin&layout=compact&hide=html&langs_count=10)
+
+---
+
+## 📈 GitHub Contributions
+
+![GitHub Contributions](https://github-readme-streak-stats.herokuapp.com/?user=Pletea-Marinescu-Valentin&theme=dark)
 
 ---
 
@@ -68,7 +75,3 @@ And many more! Check out my repositories for additional projects like **Hotel Ma
 - 📧 [Email](mailto:pletea.valentin2003@gmail.com)
 - 💼 [LinkedIn](https://www.linkedin.com/in/valentin-pletea-marinescu-437561259/)
 - 🖇️ [GitHub](https://github.com/Pletea-Marinescu-Valentin)
-
-
-
-
