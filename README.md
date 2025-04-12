@@ -31,6 +31,19 @@ I love tackling challenging projects that merge theory with real-world applicati
 
 ---
 
+## 📅 Commit Frequency
+
+![Commit Frequency](https://github-readme-activity-graph.vercel.app/graph?username=Pletea-Marinescu-Valentin&bg_color=ffffff&color=000000&line=000000&point=00FF00)
+
+---
+
+## 🐙 Pull Requests & Issues Stats
+
+![Pull Requests](https://img.shields.io/github/issues-pr/Pletea-Marinescu-Valentin?style=flat-square)
+![Open Issues](https://img.shields.io/github/issues/Pletea-Marinescu-Valentin?style=flat-square)
+
+---
+
 ## 🔧 Technologies & Tools
 
 - **Languages:** Python, C/C++, Java, PHP, Verilog, MATLAB
