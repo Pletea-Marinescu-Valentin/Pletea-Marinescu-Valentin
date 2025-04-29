@@ -170,8 +170,5 @@ I'm specializing in various domains of computer science, blending theoretical kn
 
 <!-- Snake animation -->
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Pletea-Marinescu-Valentin/Pletea-Marinescu-Valentin/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
-  
-  <!-- Alternative GIF version -->
-  <img src="https://raw.githubusercontent.com/Pletea-Marinescu-Valentin/Pletea-Marinescu-Valentin/output/github-contribution-grid-snake.gif" alt="Snake animation" />
+  <img src="https://raw.githubusercontent.com/Pletea-Marinescu-Valentin/Pletea-Marinescu-Valentin/output/snake.svg" alt="Snake animation" />
 </div>
