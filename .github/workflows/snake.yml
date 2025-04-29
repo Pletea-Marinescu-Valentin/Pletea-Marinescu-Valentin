@@ -1,38 +1,31 @@
-# GitHub Action for generating a contribution snake
 name: Generate Snake Animation
 
-# Controls when the action will run
 on:
-  # Run automatically every 12 hours
   schedule:
     - cron: "0 */12 * * *"
-    
-  # Allows you to run this workflow manually from the Actions tab
   workflow_dispatch:
 
-# The workflow steps
 jobs:
   build:
     runs-on: ubuntu-latest
 
     steps:
-      # Checks-out repository
       - uses: actions/checkout@v2
       
-      # Generates the snake
+      # Generates the snake with different colors
       - uses: Platane/snk@master
         id: snake-gif
         with:
           github_user_name: Pletea-Marinescu-Valentin
-          # The color of your contribution boxes
-          # Options include: github-snake.svg, github-snake-dark.svg, or github-snake-custom.svg?palette=github
-          svg_out_path: dist/github-contribution-grid-snake.svg
+          # Use the dark version with custom colors for better visibility
+          svg_out_path: dist/github-contribution-grid-snake-dark.svg
+          # Add a gif output as well
+          gif_out_path: dist/github-contribution-grid-snake.gif
 
       # Push the changes
       - name: Push changes to output branch
         uses: crazy-max/ghaction-github-pages@v2.6.0
         with:
-          # The branch where the generated files will be pushed
           target_branch: output
           build_dir: dist
         env:
