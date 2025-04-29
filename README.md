@@ -167,3 +167,8 @@ I'm specializing in various domains of computer science, blending theoretical kn
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" width="100%"/>
 </div>
+
+<!-- Snake animation -->
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Pletea-Marinescu-Valentin/Pletea-Marinescu-Valentin/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+</div>
