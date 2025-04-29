@@ -110,6 +110,46 @@ I'm specializing in various domains of computer science, blending theoretical kn
   </ul>
 </details>
 
+## 📈 Contribution Insights
+
+<div align="center">
+  
+  <!-- Profile views counter - works reliably -->
+  <p align="center">
+    <img src="https://komarev.com/ghpvc/?username=Pletea-Marinescu-Valentin&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="Profile Views" />
+  </p>
+
+  <!-- Productivity Stats -->
+
+<b>⚡ Recent GitHub Activity</b>
+    <br/>
+    <a href="https://github.com/Pletea-Marinescu-Valentin"><img alt="Valentin's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=Pletea-Marinescu-Valentin&custom_title=Valentin's%20Contribution%20Graph&theme=react-dark&hide_border=true" /></a>
+    <br/>
+
+    
+  <!-- Additional GitHub stats that work reliably -->
+  <p align="center">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Pletea-Marinescu-Valentin&theme=tokyonight" width="95%" alt="GitHub Profile Summary" />
+  </p>
+  
+  <!-- Languages across repositories -->
+  <p align="center">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Pletea-Marinescu-Valentin&theme=tokyonight" width="47%" />
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Pletea-Marinescu-Valentin&theme=tokyonight" width="47%" />
+  </p>
+  
+  <!-- Monthly contribution stats -->
+  <p align="center">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Pletea-Marinescu-Valentin&theme=tokyonight" width="47%" alt="Productive Time" />
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Pletea-Marinescu-Valentin&theme=tokyonight" width="47%" alt="Stats" />
+  </p>
+  
+  <!-- Commit streak animation - works reliably -->
+  <p align="center">
+    <img width="95%" src="https://github-readme-streak-stats.herokuapp.com/?user=Pletea-Marinescu-Valentin&theme=tokyonight&hide_border=true" alt="GitHub Streak Stats" />
+  </p>
+</div>
+
 ## 📫 Connect With Me
 
 <div align="center">
