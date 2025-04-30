@@ -54,9 +54,6 @@ I'm specializing in various domains of computer science, blending theoretical kn
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pletea-Marinescu-Valentin&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
 </div>
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Pletea-Marinescu-Valentin&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</div>
 
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Pletea-Marinescu-Valentin&theme=nord&column=7&no-frame=true" alt="GitHub Trophies" />
@@ -144,10 +141,6 @@ I'm specializing in various domains of computer science, blending theoretical kn
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Pletea-Marinescu-Valentin&theme=tokyonight" width="47%" alt="Stats" />
   </p>
   
-  <!-- Commit streak animation - works reliably -->
-  <p align="center">
-    <img width="95%" src="https://github-readme-streak-stats.herokuapp.com/?user=Pletea-Marinescu-Valentin&theme=tokyonight&hide_border=true" alt="GitHub Streak Stats" />
-  </p>
 </div>
 
 ## 📫 Connect With Me
