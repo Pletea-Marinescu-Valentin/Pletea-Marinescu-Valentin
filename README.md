@@ -107,10 +107,6 @@ I like building end-to-end systems: from **research + modeling** → to **produc
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Pletea-Marinescu-Valentin&theme=react-dark&hide_border=true" />
 </div>
 
-## 📈 Metrics
-
-![Metrics](https://metrics.lecoq.io/Pletea-Marinescu-Valentin)
-
 ---
 
 ## 📫 Contact
