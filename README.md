@@ -86,9 +86,30 @@ I like building end-to-end systems: from **research + modeling** → to **produc
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=Pletea-Marinescu-Valentin&show_icons=true&theme=tokyonight&hide_border=true"/>
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pletea-Marinescu-Valentin&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Pletea-Marinescu-Valentin&theme=tokyonight" width="95%"/>
 </div>
+
+<div align="center">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Pletea-Marinescu-Valentin&theme=tokyonight" width="47%"/>
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Pletea-Marinescu-Valentin&theme=tokyonight" width="47%"/>
+</div>
+
+<div align="center">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Pletea-Marinescu-Valentin&theme=tokyonight" width="47%"/>
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Pletea-Marinescu-Valentin&theme=tokyonight&utcOffset=2" width="47%"/>
+</div>
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com/?user=Pletea-Marinescu-Valentin&theme=tokyonight&hide_border=true" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Pletea-Marinescu-Valentin&theme=react-dark&hide_border=true" />
+</div>
+
+## 📈 Metrics
+
+![Metrics](https://metrics.lecoq.io/Pletea-Marinescu-Valentin)
 
 ---
 
