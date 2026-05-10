@@ -1,133 +1,281 @@
-# Valentin Pletea-Marinescu 👨‍💻
-
-<div align="center">
-  
-  ![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Valentin%20Pletea-Marinescu&fontSize=40&fontAlignY=35&animation=fadeIn)
-
-  <p>
-    <a href="mailto:pletea.valentin2003@gmail.com"><img src="https://img.shields.io/badge/Email-pletea.valentin2003%40gmail.com-blue?style=flat-square&logo=gmail"></a>
-    <a href="https://www.linkedin.com/in/valentin-pletea-marinescu-437561259/"><img src="https://img.shields.io/badge/LinkedIn-Valentin%20Pletea--Marinescu-blue?style=flat-square&logo=linkedin"></a>
-    <a href="https://github.com/Pletea-Marinescu-Valentin"><img src="https://img.shields.io/github/followers/Pletea-Marinescu-Valentin?label=Follow&style=social"></a>
-  </p>
-
-  <p>
-    <b>B.Sc. Computer Science @ National University of Science and Technology Politehnica Bucharest</b><br>
-    <i>Faculty of Automatic Control and Computer Science (2022–2026)</i>
-  </p>
-</div>
-
----
-
-## 🔍 About
-
-Computer Science student focused on **AI / Computer Vision**, **cloud-native backend**, and **embedded control systems**.  
-I like building end-to-end systems: from **research + modeling** → to **production-ready services**.
-
----
-
-## 🧪 Experience
-
-**Research Assistant — Politehnica University of Bucharest** *(May 2025 – Sep 2025)*  
-- Applied research on **AI-based anti-plagiarism** for real-time exam monitoring & behavioral analysis  
-- Built an **ESG analytics pipeline** using LLMs to extract indicators from corporate reports & compute ESG scores  
-- Designed & deployed **cloud-native services** using **FastAPI + Docker + AWS EC2** for scalable processing :contentReference[oaicite:1]{index=1}
-
----
-
-## ⭐ Featured Work
-
-### 1) Anti-Plagiarism System for Exam Monitoring (Computer Vision)
-- Real-time monitoring system combining **gaze tracking** + cheating device detection  
-- **MediaPipe Face Mesh (468 landmarks) + Kalman filtering** for temporal smoothing  
-- Dual **YOLOv8** models for **smartphone / smartwatch** detection  
-- ~**25+ FPS** CPU-only, under **820 MB RAM**, **92.4% gaze accuracy**  
-- **First-author paper @ RoEduNet 2025 (ISI Indexed)** + extended as Bachelor’s thesis :contentReference[oaicite:2]{index=2}
-
-### 2) Hold My Coffee — Active Stabilization Platform (Embedded Control)
-- Built a **3-DOF** stabilization platform with a dual-MCU architecture  
-- System identification + reduced-order modeling  
-- Implemented & compared **PID, RST, LQR, MRAC** on real hardware  
-- Proposed a **CPA metric** for multi-criteria controller evaluation (paper in preparation) :contentReference[oaicite:3]{index=3}
-
-### 3) ESG Analytics Platform (LLM + RAG + Cloud)
-- End-to-end platform for ingesting large PDF sustainability reports and extracting structured ESG indicators  
-- Implemented **LLM-based RAG** to identify metrics, values, units & context  
-- Containerized backend (**Docker**) exposing async **FastAPI** services for parsing, embeddings, retrieval & scoring  
-- React dashboard + PostgreSQL; supports multi-document aggregation, trends & KPI visualization :contentReference[oaicite:4]{index=4}
-
----
-
-## 🛠️ Tech Stack
+# Valentin Pletea-Marinescu
 
 <div align="center">
 
-| Category | Technologies |
-|---|---|
-| **Languages** | ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) ![C](https://img.shields.io/badge/-C-555555?style=flat-square&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/-C%2B%2B-00599C?style=flat-square&logo=c%2B%2B&logoColor=white) ![Java](https://img.shields.io/badge/-Java-ED8B00?style=flat-square&logo=java&logoColor=white) ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) |
-| **AI / CV** | ![YOLO](https://img.shields.io/badge/-YOLOv8-111111?style=flat-square) ![OpenCV](https://img.shields.io/badge/-OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white) ![MediaPipe](https://img.shields.io/badge/-MediaPipe-0F9D58?style=flat-square) ![LLM](https://img.shields.io/badge/-LLMs-222222?style=flat-square) |
-| **Backend / Cloud** | ![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white) ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white) ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black) |
-| **Frontend** | ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black) |
-| **Databases** | ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white) |
-| **Embedded & Control** | ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=flat-square&logo=arduino&logoColor=white) ![STM32](https://img.shields.io/badge/-STM32-03234B?style=flat-square) ![Teensy](https://img.shields.io/badge/-Teensy-222222?style=flat-square) |
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=220&section=header&text=Valentin%20Pletea-Marinescu&fontSize=42&fontAlignY=38&animation=fadeIn" width="100%" />
+
+<br>
+
+[![Email](https://img.shields.io/badge/Email-pletea.valentin2003%40gmail.com-D14836?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:pletea.valentin2003@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Valentin%20Pletea--Marinescu-0077B5?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/valentin-pletea-marinescu-437561259/)
+[![GitHub](https://img.shields.io/badge/GitHub-Pletea--Marinescu--Valentin-100000?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/Pletea-Marinescu-Valentin)
 
 </div>
 
 ---
 
-## 🏆 Achievements
+## About Me
 
-- **1st Place** — Scientific Communications Session (SCSS 2025), UPB  
-- **1st Place** — TechChallenge & RoboChallenge 2025 (Freestyle)  
-- **First Author** — RoEduNet 2025 (ISI Indexed Conference)  
-- **Open Source Contributor** — Rust `rencfs` (merged PR) :contentReference[oaicite:5]{index=5}
+Embedded AI & Control Systems Engineer focused on:
 
----
+* computer vision
+* robotics
+* real-time systems
+* experimental control engineering
+* edge AI inference
+* distributed intelligent systems
 
-## 📊 GitHub Stats
+I enjoy building complete systems — from mathematical modeling and control design to embedded firmware, AI inference pipelines and cloud-native backend infrastructure.
 
-<div align="center">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Pletea-Marinescu-Valentin&theme=tokyonight" width="95%"/>
-</div>
-
-<div align="center">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Pletea-Marinescu-Valentin&theme=tokyonight" width="47%"/>
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Pletea-Marinescu-Valentin&theme=tokyonight" width="47%"/>
-</div>
-
-<div align="center">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Pletea-Marinescu-Valentin&theme=tokyonight" width="47%"/>
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Pletea-Marinescu-Valentin&theme=tokyonight&utcOffset=2" width="47%"/>
-</div>
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com/?user=Pletea-Marinescu-Valentin&theme=tokyonight&hide_border=true" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Pletea-Marinescu-Valentin&theme=react-dark&hide_border=true" />
-</div>
+Currently pursuing a B.Sc. in Computer Science at the National University of Science and Technology POLITEHNICA Bucharest, Faculty of Automatic Control and Computer Science.
 
 ---
 
-## 📫 Contact
+# Research Interests
+
+* Embedded AI
+* Computer Vision
+* Robotics & Autonomous Systems
+* Optimal & Adaptive Control
+* Real-Time Systems
+* System Identification
+* Edge Inference
+* Retrieval-Augmented LLM Systems
+* Intelligent Monitoring Systems
+
+---
+
+# Selected Projects
+
+## AI-Based Anti-Plagiarism Monitoring System
+
+Real-time multimodal exam monitoring platform combining:
+
+* gaze estimation using MediaPipe Face Mesh (468 landmarks)
+* adaptive Kalman filtering
+* dual YOLOv8 pipelines for smartphone and smartwatch detection
+* audio activity detection + Romanian speech transcription
+* motorized gimbal classroom scanning
+* multi-student orchestration and event persistence
+
+### Key Results
+
+* 25+ FPS CPU-only inference
+* <820 MB RAM usage
+* 92.4% gaze-direction accuracy
+* 88.6% smartphone detection accuracy
+* 92.5% smartwatch detection accuracy
+* fully local GDPR-oriented processing
+
+### Publication
+
+First-author paper published at RoEduNet 2025 (ISI Indexed Conference).
+
+Repository:
+
+* private research repository
+* extended into 70+ page Bachelor's thesis
+
+---
+
+## Hold My Coffee — Active Stabilization Platform
+
+Repository:
+
+* https://github.com/Pletea-Marinescu-Valentin/Stabilization-Platform
+
+3-DOF active beverage stabilization platform designed for experimental comparison of classical, optimal and adaptive control strategies.
+
+### Features
+
+* dual-MCU architecture
+* Teensy 4.1 + Arduino UNO
+* BLDC FOC motor control via Moteus drivers
+* FDCAN communication
+* N4SID system identification
+* reduced-order modeling
+* disturbance rejection benchmarking
+* experimental controller comparison on real hardware
+
+### Implemented Controllers
+
+* PID
+* RST
+* LQG
+* MRAC
+
+### Additional Work
+
+* automated testing framework
+* custom Composite Performance Assessment (CPA) metric
+* MATLAB identification + simulation pipeline
+* embedded real-time implementation
+
+Paper currently under preparation.
+
+---
+
+## Wine-Quality — Retrieval-Augmented LLM Classification
+
+Repository:
+
+* https://github.com/Pletea-Marinescu-Valentin/Wine-Quality
+
+Research project exploring retrieval-augmented prompting for ordinal NLP classification using local open-weight LLMs.
+
+### Implemented
+
+* class-balanced semantic retrieval
+* frozen sentence embeddings
+* retrieval-augmented prompting
+* semantic nearest-neighbor search
+* comparative evaluation across open-weight LLMs
+
+### Evaluated Models
+
+* Mistral
+* Gemma
+* Qwen
+
+### Results
+
+Achieved ~90% classification accuracy without model fine-tuning.
+
+Paper under preparation.
+
+---
+
+# Experience
+
+## Research Assistant — POLITEHNICA Bucharest
+
+**May 2025 – April 2025**
+
+Worked on applied research projects involving:
+
+* AI-based anti-plagiarism systems
+* ESG analytics using LLMs
+* retrieval-augmented document intelligence
+* cloud-native AI pipelines
+* distributed backend services
+
+# Experience
+
+## Proposal Engineer — Honeywell
+
+**May 2026 – Present**
+
+---
+
+## Research Assistant — POLITEHNICA Bucharest
+
+**May 2025 – April 2026**
+
+Worked on applied research projects involving:
+
+* AI-based anti-plagiarism systems
+* ESG analytics using LLMs
+* retrieval-augmented document intelligence
+* cloud-native AI pipelines
+* distributed backend services
+
+### Technologies
+
+* FastAPI
+* Docker
+* AWS EC2
+* PostgreSQL
+* Python
+* LLM APIs
+* embeddings & retrieval systems
+
+---
+
+# Publications
+
+### Anti-Plagiarism System for Exam Monitoring
+
+RoEduNet Conference 2025 — ISI Indexed
+First Author
+
+---
+
+# Awards & Achievements
+
+* 🥇 1st Place — Scientific Communications Session (SCSS 2025)
+* 🥇 1st Place — TechChallenge & RoboChallenge 2025 (Freestyle) & RoboTEC (Freestyle)
+* 📄 First Author — RoEduNet 2025 (ISI Indexed)
+* 🔧 Open Source Contributor — Rust `rencfs`
+
+---
+
+# Technical Stack
 
 <div align="center">
-  <a href="mailto:pletea.valentin2003@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-  <a href="https://www.linkedin.com/in/valentin-pletea-marinescu-437561259/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="https://github.com/Pletea-Marinescu-Valentin">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
+
+| Domain    | Technologies                             |
+| --------- | ---------------------------------------- |
+| Languages | Python, C, C++, Java, TypeScript         |
+| AI / CV   | YOLOv8, OpenCV, MediaPipe, PyTorch, LLMs |
+| Embedded  | STM32, Teensy 4.1, Arduino, FDCAN        |
+| Control   | PID, RST, LQG, MRAC, Kalman Filtering    |
+| Backend   | FastAPI, Docker, PostgreSQL              |
+| Cloud     | AWS EC2, Linux, OpenShift                |
+| Frontend  | React                                    |
+| Tooling   | Git, MATLAB, Simulink                    |
+
 </div>
 
-<!-- Snake animation -->
+---
+
+# GitHub Analytics
+
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Pletea-Marinescu-Valentin/Pletea-Marinescu-Valentin/output/snake.svg" alt="Snake animation" />
+
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Pletea-Marinescu-Valentin&theme=tokyonight" width="95%" />
+
+<br>
+
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Pletea-Marinescu-Valentin&theme=tokyonight" width="47%" />
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Pletea-Marinescu-Valentin&theme=tokyonight" width="47%" />
+
+<br>
+
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Pletea-Marinescu-Valentin&theme=tokyonight" width="47%" />
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Pletea-Marinescu-Valentin&theme=tokyonight&utcOffset=2" width="47%" />
+
+<br>
+
+<img src="https://streak-stats.demolab.com/?user=Pletea-Marinescu-Valentin&theme=tokyonight&hide_border=true" />
+
+<br>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Pletea-Marinescu-Valentin&theme=react-dark&hide_border=true" />
+
+</div>
+
+---
+
+# Contact
+
+<div align="center">
+
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:pletea.valentin2003@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/valentin-pletea-marinescu-437561259/)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/Pletea-Marinescu-Valentin)
+
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/Pletea-Marinescu-Valentin/Pletea-Marinescu-Valentin/output/snake.svg" />
+
 </div>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%"/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer" width="100%" />
+
 </div>
